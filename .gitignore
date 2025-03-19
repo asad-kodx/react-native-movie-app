@@ -38,4 +38,4 @@ yarn-error.*
 app-example
 
 # vscode
-.vscode
+config.bat
